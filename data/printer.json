@@ -1,0 +1,53 @@
+// private String usbName;
+// private String ipAddress;
+// private String macAddress;
+// private PrinterSize size; // 57mm or 80mm
+// private PrinterType type;
+// private int noOrderCopy = 1;
+// private int noReceiptCopy = 1;
+// private boolean isPrintOrder;
+// private boolean isPrintReceipt;
+// private boolean isPrintClosingReceipt;
+
+[
+  {
+    "mchtNo": "",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.17",
+    "isPrintOrder": false,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": false
+  },
+  {
+    "mchtNo": "",
+    "type": "USB",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": null,
+    "isPrintOrder": true,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true
+  },
+  {
+    "mchtNo": "",
+    "type": "USB",
+    "size": "BIG",
+    "usbName": "althicoA726",
+    "ipAddress": null,
+    "isPrintOrder": false,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true
+  },
+  {
+    "mchtNo": "",
+    "type": "USB",
+    "size": "BIG",
+    "usbName": "IP1000 Printer USB001",
+    "ipAddress": null,
+    "isPrintOrder": false,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true
+  }
+]
