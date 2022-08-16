@@ -1,14 +1,3 @@
-// private String usbName;
-// private String ipAddress;
-// private String macAddress;
-// private PrinterSize size; // 57mm or 80mm
-// private PrinterType type;
-// private int noOrderCopy = 1;
-// private int noReceiptCopy = 1;
-// private boolean isPrintOrder;
-// private boolean isPrintReceipt;
-// private boolean isPrintClosingReceipt;
-
 [
   {
     "mchtNo": "",
