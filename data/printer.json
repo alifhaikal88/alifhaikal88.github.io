@@ -7,7 +7,9 @@
     "ipAddress": "192.168.10.17",
     "isPrintOrder": false,
     "isPrintReceipt": true,
-    "isPrintClosingReceipt": false
+    "isPrintClosingReceipt": false,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
   },
   {
     "mchtNo": "",
@@ -17,7 +19,9 @@
     "ipAddress": null,
     "isPrintOrder": true,
     "isPrintReceipt": true,
-    "isPrintClosingReceipt": true
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
   },
   {
     "mchtNo": "",
@@ -27,7 +31,9 @@
     "ipAddress": null,
     "isPrintOrder": false,
     "isPrintReceipt": true,
-    "isPrintClosingReceipt": true
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
   },
   {
     "mchtNo": "",
@@ -37,6 +43,8 @@
     "ipAddress": null,
     "isPrintOrder": false,
     "isPrintReceipt": true,
-    "isPrintClosingReceipt": true
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
   }
 ]
