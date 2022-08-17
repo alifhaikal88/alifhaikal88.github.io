@@ -38,12 +38,12 @@
   {
     "mchtNo": "",
     "type": "USB",
-    "size": "BIG",
+    "size": "SMALL",
     "usbName": "althicoA726",
     "ipAddress": null,
     "isPrintOrder": false,
     "isPrintReceipt": true,
-    "isPrintClosingReceipt": true,
+    "isPrintClosingReceipt": false,
     "noOrderCopy": 1,
     "noReceiptCopy": 1
   },
