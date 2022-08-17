@@ -7,7 +7,7 @@
     "ipAddress": "192.168.10.17",
     "isPrintOrder": true,
     "isPrintReceipt": false,
-    "isPrintClosingReceipt": false,
+    "isPrintClosingReceipt": true,
     "noOrderCopy": 2,
     "noReceiptCopy": 1
   },
