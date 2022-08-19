@@ -24,6 +24,18 @@
     "noReceiptCopy": 1
   },
   {
+    "mchtNo": "M02386",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.0.1",
+    "isPrintOrder": true,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
+  },
+  {
     "mchtNo": "",
     "type": "USB",
     "size": "BIG",
