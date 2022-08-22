@@ -30,7 +30,7 @@
     "usbName": "printer-80",
     "ipAddress": "192.168.10.17",
     "isPrintOrder": true,
-    "isPrintReceipt": true,
+    "isPrintReceipt": false,
     "isPrintClosingReceipt": true,
     "noOrderCopy": 1,
     "noReceiptCopy": 1
