@@ -44,7 +44,7 @@
     "isPrintOrder": true,
     "isPrintReceipt": false,
     "isPrintClosingReceipt": true,
-    "noOrderCopy": 1,
+    "noOrderCopy": 2,
     "noReceiptCopy": 1
   },
   {
