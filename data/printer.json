@@ -64,7 +64,7 @@
     "type": "LAN",
     "size": "BIG",
     "usbName": "printer-80",
-    "ipAddress": "192.168.0.17",
+    "ipAddress": "192.168.0.19",
     "isPrintOrder": true,
     "isPrintReceipt": false,
     "isPrintClosingReceipt": true,
