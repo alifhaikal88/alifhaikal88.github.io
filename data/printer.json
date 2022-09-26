@@ -84,6 +84,19 @@
     "noReceiptCopy": 1
   },
   {
+    "note": "iboxeat dev",
+    "mchtNo": "M00400",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.17",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
     "mchtNo": "",
     "type": "USB",
     "size": "BIG",
