@@ -126,7 +126,7 @@
     "size": "BIG",
     "usbName": "IP1000 Printer USB001",
     "ipAddress": null,
-    "isPrintOrder": false,
+    "isPrintOrder": true,
     "isPrintReceipt": true,
     "isPrintClosingReceipt": true,
     "noOrderCopy": 1,
