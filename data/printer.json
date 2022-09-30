@@ -97,7 +97,7 @@
     "noReceiptCopy": 1
   },
   {
-    "mchtNo": "",
+    "mchtNo": "xxx",
     "type": "USB",
     "size": "BIG",
     "usbName": "printer-80",
@@ -109,7 +109,7 @@
     "noReceiptCopy": 1
   },
   {
-    "mchtNo": "",
+    "mchtNo": "xxx",
     "type": "USB",
     "size": "SMALL",
     "usbName": "althicoA726",
@@ -121,7 +121,7 @@
     "noReceiptCopy": 1
   },
   {
-    "mchtNo": "",
+    "mchtNo": "xxx",
     "type": "USB",
     "size": "BIG",
     "usbName": "IP1000 Printer USB001",
