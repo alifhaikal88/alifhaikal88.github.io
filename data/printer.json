@@ -1,5 +1,6 @@
 [
   {
+    "note": "prod Zushusi House",
     "mchtNo": "015440396790706",
     "type": "LAN",
     "size": "BIG",
@@ -12,6 +13,7 @@
     "noReceiptCopy": 1
   },
   {
+    "note": "prod Zushusi House",
     "mchtNo": "015440396790706",
     "type": "LAN",
     "size": "BIG",
@@ -24,6 +26,7 @@
     "noReceiptCopy": 1
   },
   {
+    "note": "prod MAMAK STORE",
     "mchtNo": "M02378",
     "type": "LAN",
     "size": "BIG",
@@ -48,6 +51,7 @@
     "noReceiptCopy": 1
   },
   {
+    "note": "prod SHUSI MENTAI",
     "mchtNo": "M02346",
     "type": "LAN",
     "size": "BIG",
@@ -60,6 +64,7 @@
     "noReceiptCopy": 1
   },
   {
+    "note": "prod ngopi",
     "mchtNo": "M02387",
     "type": "LAN",
     "size": "BIG",
@@ -84,7 +89,7 @@
     "noReceiptCopy": 1
   },
   {
-    "note": "iboxeat dev",
+    "note": "dev iboxeatdev",
     "mchtNo": "M00400",
     "type": "LAN",
     "size": "BIG",
@@ -97,7 +102,7 @@
     "noReceiptCopy": 1
   },
   {
-    "mchtNo": "xxx",
+    "mchtNo": "global",
     "type": "USB",
     "size": "BIG",
     "usbName": "printer-80",
@@ -109,7 +114,7 @@
     "noReceiptCopy": 1
   },
   {
-    "mchtNo": "xxx",
+    "mchtNo": "global",
     "type": "USB",
     "size": "SMALL",
     "usbName": "althicoA726",
@@ -121,7 +126,7 @@
     "noReceiptCopy": 1
   },
   {
-    "mchtNo": "xxx",
+    "mchtNo": "global",
     "type": "USB",
     "size": "BIG",
     "usbName": "IP1000 Printer USB001",
