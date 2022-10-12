@@ -108,7 +108,7 @@
     "size": "BIG",
     "usbName": "printer-80",
     "ipAddress": null,
-    "isPrintOrder": true,
+    "isPrintOrder": false,
     "isPrintReceipt": true,
     "isPrintClosingReceipt": true,
     "noOrderCopy": 1,
