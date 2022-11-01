@@ -90,6 +90,19 @@
     "noReceiptCopy": 1
   },
   {
+    "note": "prod ngopi mergong",
+    "mchtNo": "M02391",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.1.100",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
     "note": "dev iboxeatdev",
     "mchtNo": "M00400",
     "type": "LAN",
