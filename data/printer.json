@@ -1,81 +1,154 @@
-{
-  "products": [
-    {
-      "name": "Wireless Bluetooth Earbuds",
-      "description": "Experience the ultimate music experience with our wireless Bluetooth earbuds. With a sleek design and high-quality sound, these earbuds are perfect for on-the-go listening.",
-      "specification": {
-        "Color": "Black",
-        "Battery Life": "Up to 8 hours",
-        "Bluetooth Version": "5.0",
-        "Water Resistance": "IPX4",
-        "Charging Time": "1.5 hours",
-        "Connectivity Range": "33 feet"
-      },
-      "image": "https://www.telecom.com/images/products/earbuds.jpg",
-      "price": 69.99,
-      "category": "Audio"
-    },
-    {
-      "name": "5G Smartphone",
-      "description": "Upgrade your mobile experience with our 5G smartphone. With lightning-fast connectivity and a stunning display, this phone is perfect for streaming, gaming, and more.",
-      "specification": {
-        "Display": "6.5 inch AMOLED",
-        "Processor": "Snapdragon 888",
-        "RAM": "8GB",
-        "Storage": "128GB",
-        "Camera": "48MP rear, 20MP front",
-        "Battery": "5000mAh",
-        "Connectivity": "5G, Wi-Fi 6",
-        "OS": "Android 12"
-      },
-      "image": "https://www.telecom.com/images/products/smartphone.jpg",
-      "price": 999.99,
-      "category": "Mobile Devices"
-    },
-    {
-      "name": "Wireless Charging Pad",
-      "description": "Say goodbye to tangled cables with our wireless charging pad. With fast charging capabilities and a sleek design, this pad is perfect for any home or office.",
-      "specification": {
-        "Color": "White",
-        "Output": "10W",
-        "Compatibility": "Qi-enabled devices",
-        "Charging Time": "3 hours",
-        "Power Source": "USB-C"
-      },
-      "image": "https://www.telecom.com/images/products/charging-pad.jpg",
-      "price": 29.99,
-      "category": "Charging"
-    },
-    {
-      "name": "Smartwatch",
-      "description": "Stay connected and organized with our smartwatch. With a variety of features, including GPS, heart rate monitoring, and mobile notifications, this watch is perfect for any lifestyle.",
-      "specification": {
-        "Display": "1.4 inch AMOLED",
-        "Battery Life": "Up to 7 days",
-        "Connectivity": "Bluetooth, Wi-Fi",
-        "Sensors": "Heart rate, GPS, Accelerometer",
-        "Water Resistance": "IP68",
-        "Compatibility": "iOS, Android"
-      },
-      "image": "https://www.telecom.com/images/products/smartwatch.jpg",
-      "price": 199.99,
-      "category": "Wearables"
-    },
-    {
-      "name": "Wireless Router",
-      "description": "Experience fast and reliable internet with our wireless router. With advanced features and a powerful signal, this router is perfect for any home or office.",
-      "specification": {
-        "Wireless Standard": "802.11ax",
-        "Wi-Fi Speed": "Up to 6000Mbps",
-        "Ethernet Ports": "4",
-        "USB Ports": "2",
-        "Security": "WPA3",
-        "Antennas": "4",
-        "Coverage": "Up to 3000 sq. ft."
-      },
-      "image": "https://www.telecom.com/images/products/router.jpg",
-      "price": 149.99,
-      "category": "Networking"
-    }
-  ]
-}
+[
+  {
+    "note": "prod Zushusi House",
+    "mchtNo": "015440396790706",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.19",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
+    "note": "prod Zushusi House",
+    "mchtNo": "015440396790706",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.17",
+    "isPrintOrder": true,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
+    "note": "prod MAMAK STORE",
+    "mchtNo": "M02378",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.0.20",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
+    "mchtNo": "M02386",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.19",
+    "isPrintOrder": true,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
+  },
+  {
+    "note": "prod SHUSI MENTAI",
+    "mchtNo": "M02346",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.19",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
+    "note": "prod ngopi",
+    "mchtNo": "M02387",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.19",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
+    "note": "prod ngopi",
+    "mchtNo": "M02387",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.17",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
+  },
+  {
+    "note": "prod ngopi mergong",
+    "mchtNo": "M02391",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.0.116",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 2,
+    "noReceiptCopy": 1
+  },
+  {
+    "note": "dev iboxeatdev",
+    "mchtNo": "M00400",
+    "type": "LAN",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": "192.168.10.17",
+    "isPrintOrder": true,
+    "isPrintReceipt": false,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
+  },
+  {
+    "mchtNo": "",
+    "type": "USB",
+    "size": "BIG",
+    "usbName": "printer-80",
+    "ipAddress": null,
+    "isPrintOrder": false,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
+  },
+  {
+    "mchtNo": "",
+    "type": "USB",
+    "size": "SMALL",
+    "usbName": "althicoA726",
+    "ipAddress": null,
+    "isPrintOrder": false,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": false,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
+  },
+  {
+    "mchtNo": "",
+    "type": "USB",
+    "size": "BIG",
+    "usbName": "IP1000 Printer USB001",
+    "ipAddress": null,
+    "isPrintOrder": true,
+    "isPrintReceipt": true,
+    "isPrintClosingReceipt": true,
+    "noOrderCopy": 1,
+    "noReceiptCopy": 1
+  }
+]
